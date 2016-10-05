@@ -1,0 +1,13 @@
+E:\朋成\大作业\学生选课管理系统\学生选课管理系统\bin\Debug\学生选课管理系统.exe.config
+E:\朋成\大作业\学生选课管理系统\学生选课管理系统\obj\Debug\学生选课管理系统.exe
+E:\朋成\大作业\学生选课管理系统\学生选课管理系统\obj\Debug\学生选课管理系统.pdb
+E:\朋成\大作业\学生选课管理系统\学生选课管理系统\bin\Debug\学生选课管理系统.exe
+E:\朋成\大作业\学生选课管理系统\学生选课管理系统\bin\Debug\学生选课管理系统.pdb
+E:\朋成\大作业\学生选课管理系统\学生选课管理系统\obj\Debug\ResolveAssemblyReference.cache
+E:\朋成\大作业\学生选课管理系统\学生选课管理系统\obj\Debug\学生选课管理系统.adminlogin.resources
+E:\朋成\大作业\学生选课管理系统\学生选课管理系统\obj\Debug\学生选课管理系统.changepass.resources
+E:\朋成\大作业\学生选课管理系统\学生选课管理系统\obj\Debug\学生选课管理系统.login.resources
+E:\朋成\大作业\学生选课管理系统\学生选课管理系统\obj\Debug\学生选课管理系统.Properties.Resources.resources
+E:\朋成\大作业\学生选课管理系统\学生选课管理系统\obj\Debug\学生选课管理系统.studentlogin.resources
+E:\朋成\大作业\学生选课管理系统\学生选课管理系统\obj\Debug\学生选课管理系统.teacherlogin.resources
+E:\朋成\大作业\学生选课管理系统\学生选课管理系统\obj\Debug\学生选课管理系统.csproj.GenerateResource.Cache

@@ -1,0 +1,13 @@
+bin\Debug\学生选课管理系统.exe
+bin\Debug\学生选课管理系统.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\学生选课管理系统.login.resources
+obj\Debug\学生选课管理系统.Properties.Resources.resources
+obj\Debug\学生选课管理系统.csproj.GenerateResource.Cache
+obj\Debug\学生选课管理系统.exe
+obj\Debug\学生选课管理系统.pdb
+obj\Debug\学生选课管理系统.adminlogin.resources
+obj\Debug\学生选课管理系统.studentlogin.resources
+obj\Debug\学生选课管理系统.teacherlogin.resources
+obj\Debug\学生选课管理系统.changepass.resources
+bin\Debug\学生选课管理系统.exe.config
